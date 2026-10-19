@@ -1,0 +1,6 @@
+{
+  "name": "Logement",
+  "description": "Plateforme immobilière moderne pour rechercher, publier et gérer des logements avec messagerie, visites et modération.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
